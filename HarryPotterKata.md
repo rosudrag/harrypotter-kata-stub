@@ -1,4 +1,4 @@
-﻿## Problem Description
+﻿##Problem Description
 To try and encourage more sales of the 5 different Harry Potter books they sell,
  a bookshop has decided to offer discounts of multiple-book purchases.
 One copy of any of the five books costs 8 EUR.
@@ -18,13 +18,9 @@ giving as big a discount as possible.
 For example, how much does this basket of books cost?
 
 •	2 copies of the first book
-
 •	2 copies of the second book
-
 •	2 copies of the third book
-
 •	1 copy of the fourth book
-
 •	1 copy of the fifth book
 
 Answer: 51.20 EUR
